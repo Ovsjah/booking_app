@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  reserved: false
+  reservation_period: 1
+  reserved_at: 2019-02-20 15:09:50
+  restaurant: one
+
+two:
+  reserved: false
+  reservation_period: 1
+  reserved_at: 2019-02-20 15:09:50
+  restaurant: two

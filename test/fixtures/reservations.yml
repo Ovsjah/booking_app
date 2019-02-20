@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  period: 1
+  client: one
+  table: one
+  restaurant: one
+
+two:
+  period: 1
+  client: two
+  table: two
+  restaurant: two
